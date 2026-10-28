@@ -1,0 +1,40 @@
+project_id,project_key,project_name
+1,XD,Spring XD
+2,DATACASS,Spring DataCass
+3,NEXUS,Sonatype Nexus
+4,MESOS,Apache Mesos
+5,USERGRID,Apache Usergrid
+6,MXNET,Apache MXNet
+7,ALOY,Alloy Framework
+8,APSTUD,Aptana Studio
+9,CLI,Command-Line Interface
+10,DAEMON,Appcelerator Daemon
+11,TIDOC,Titanium Mobile Platform
+12,TIMOB,The Titanium SDK 
+13,TISTUD,Appcelerator Studio
+14,BAM,Atlassian Bamboo 
+15,CLOV,Atlassian Clover
+16,CWD,Atlassian Crowd
+17,FE,Atlassian FishEye
+18,JRASERVER,Atlassian Jira Server
+19,JSWCLOUD,Atlassian Software Cloud
+20,JSWSERVER,Atlassian Atlassian Software Server
+21,CONFCLOUD,Atlassian Confluence Cloud
+22,CONFSERVER,Atlassian Confluence Server
+23,BE,Hyperledger Blockchain Explorer
+24,FAB,Hyperledger Fabric
+25,INDY,Hyperledger Indy Node
+26,IS,Hyperledger Indy SDK
+27,STL,Hyperledger Sawtooth
+28,DM,Lsstcorp Data management
+29,DURACLOUD,Lyrasis Dura Cloud
+30,COMPASS,MongoDB Compass 
+31,CXX,The Mongo C++ driver
+32,JAVA,The Mongo Java driver
+33,SERVER,MongoDB Core Server
+34,MDL,Moodle
+35,APIKIT,Mule APIkit
+36,MULE,Mule
+42,DNN,DotNetNuke Platform
+43,EVG,The MongoDB Engineering
+44,JRACLOUD,Atlassian Jira Cloud

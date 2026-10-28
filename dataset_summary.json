@@ -1,0 +1,216 @@
+{
+  "source_sql": "C:\\Users\\DELL\\Downloads\\TAWOS.sql",
+  "projects": 39,
+  "sql_rows_read": 458232,
+  "eligible_issues": 65427,
+  "missing_story_point": 392805,
+  "missing_creation_date": 0,
+  "missing_text": 0,
+  "eligible_issues_by_project": {
+    "Spring XD": {
+      "project_id": 1,
+      "project_key": "XD",
+      "issues": 3705
+    },
+    "Spring DataCass": {
+      "project_id": 2,
+      "project_key": "DATACASS",
+      "issues": 243
+    },
+    "Sonatype Nexus": {
+      "project_id": 3,
+      "project_key": "NEXUS",
+      "issues": 1845
+    },
+    "Apache Mesos": {
+      "project_id": 4,
+      "project_key": "MESOS",
+      "issues": 3272
+    },
+    "Apache Usergrid": {
+      "project_id": 5,
+      "project_key": "USERGRID",
+      "issues": 487
+    },
+    "Apache MXNet": {
+      "project_id": 6,
+      "project_key": "MXNET",
+      "issues": 209
+    },
+    "Alloy Framework": {
+      "project_id": 7,
+      "project_key": "ALOY",
+      "issues": 315
+    },
+    "Aptana Studio": {
+      "project_id": 8,
+      "project_key": "APSTUD",
+      "issues": 890
+    },
+    "Command-Line Interface": {
+      "project_id": 9,
+      "project_key": "CLI",
+      "issues": 374
+    },
+    "Appcelerator Daemon": {
+      "project_id": 10,
+      "project_key": "DAEMON",
+      "issues": 242
+    },
+    "Titanium Mobile Platform": {
+      "project_id": 11,
+      "project_key": "TIDOC",
+      "issues": 1297
+    },
+    "The Titanium SDK ": {
+      "project_id": 12,
+      "project_key": "TIMOB",
+      "issues": 4665
+    },
+    "Appcelerator Studio": {
+      "project_id": 13,
+      "project_key": "TISTUD",
+      "issues": 3406
+    },
+    "Atlassian Bamboo ": {
+      "project_id": 14,
+      "project_key": "BAM",
+      "issues": 528
+    },
+    "Atlassian Clover": {
+      "project_id": 15,
+      "project_key": "CLOV",
+      "issues": 387
+    },
+    "Atlassian Crowd": {
+      "project_id": 16,
+      "project_key": "CWD",
+      "issues": 214
+    },
+    "Atlassian FishEye": {
+      "project_id": 17,
+      "project_key": "FE",
+      "issues": 240
+    },
+    "Atlassian Jira Server": {
+      "project_id": 18,
+      "project_key": "JRASERVER",
+      "issues": 380
+    },
+    "Atlassian Software Cloud": {
+      "project_id": 19,
+      "project_key": "JSWCLOUD",
+      "issues": 318
+    },
+    "Atlassian Atlassian Software Server": {
+      "project_id": 20,
+      "project_key": "JSWSERVER",
+      "issues": 351
+    },
+    "Atlassian Confluence Cloud": {
+      "project_id": 21,
+      "project_key": "CONFCLOUD",
+      "issues": 352
+    },
+    "Atlassian Confluence Server": {
+      "project_id": 22,
+      "project_key": "CONFSERVER",
+      "issues": 662
+    },
+    "Hyperledger Blockchain Explorer": {
+      "project_id": 23,
+      "project_key": "BE",
+      "issues": 373
+    },
+    "Hyperledger Fabric": {
+      "project_id": 24,
+      "project_key": "FAB",
+      "issues": 636
+    },
+    "Hyperledger Indy Node": {
+      "project_id": 25,
+      "project_key": "INDY",
+      "issues": 681
+    },
+    "Hyperledger Indy SDK": {
+      "project_id": 26,
+      "project_key": "IS",
+      "issues": 720
+    },
+    "Hyperledger Sawtooth": {
+      "project_id": 27,
+      "project_key": "STL",
+      "issues": 966
+    },
+    "Lsstcorp Data management": {
+      "project_id": 28,
+      "project_key": "DM",
+      "issues": 20664
+    },
+    "Lyrasis Dura Cloud": {
+      "project_id": 29,
+      "project_key": "DURACLOUD",
+      "issues": 666
+    },
+    "MongoDB Compass ": {
+      "project_id": 30,
+      "project_key": "COMPASS",
+      "issues": 499
+    },
+    "The Mongo C++ driver": {
+      "project_id": 31,
+      "project_key": "CXX",
+      "issues": 224
+    },
+    "The Mongo Java driver": {
+      "project_id": 32,
+      "project_key": "JAVA",
+      "issues": 238
+    },
+    "MongoDB Core Server": {
+      "project_id": 33,
+      "project_key": "SERVER",
+      "issues": 784
+    },
+    "Moodle": {
+      "project_id": 34,
+      "project_key": "MDL",
+      "issues": 1594
+    },
+    "Mule APIkit": {
+      "project_id": 35,
+      "project_key": "APIKIT",
+      "issues": 473
+    },
+    "Mule": {
+      "project_id": 36,
+      "project_key": "MULE",
+      "issues": 4170
+    },
+    "DotNetNuke Platform": {
+      "project_id": 42,
+      "project_key": "DNN",
+      "issues": 2594
+    },
+    "The MongoDB Engineering": {
+      "project_id": 43,
+      "project_key": "EVG",
+      "issues": 5402
+    },
+    "Atlassian Jira Cloud": {
+      "project_id": 44,
+      "project_key": "JRACLOUD",
+      "issues": 361
+    }
+  },
+  "project_name_mappings": {
+    "43": {
+      "assignment": "Evergreen",
+      "tawos": "The MongoDB Engineering"
+    },
+    "8": {
+      "assignment": "C++ driver (Appcelerator)",
+      "tawos": "Aptana Studio"
+    }
+  }
+}
